@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Snake.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SnakeMain.cpp
+D:\Zefir\Проги в процессе\Snake\Snake\SnakeMain.cpp(787,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Zefir\Проги в процессе\Snake\Snake\SnakeMain.cpp(659): warning C4715: Option: значение возвращается не при всех путях выполнения
+  Snake.vcxproj -> D:\Zefir\Проги в процессе\Snake\x64\Debug\SnakeGame.exe
